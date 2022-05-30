@@ -7,8 +7,8 @@ const { format, preview_gif } = require(`${basePath}/src/config.js`);
 const canvas = createCanvas(format.width, format.height);
 const ctx = canvas.getContext("2d");
 
-const HashlipsGiffer = require(`${basePath}/modules/HashlipsGiffer.js`);
-let hashlipsGiffer = null;
+const giffer = require(`${basePath}/modules/giffer.js`);
+let giffer = null;
 
 const loadImg = async (_img) => {
   return new Promise(async (resolve) => {
@@ -46,15 +46,8 @@ const saveProjectPreviewGIF = async (_data) => {
 
     ctx.clearRect(0, 0, width, height);
 
-    hashlipsGiffer = new HashlipsGiffer(
-      canvas,
-      ctx,
-      `${previewPath}`,
-      repeat,
-      quality,
-      delay
-    );
-    hashlipsGiffer.start();
+    giffer = new giffer(canvas, ctx, `${previewPath}`, repeat, quality, delay);
+    giffer.start();
 
     await Promise.all(_data).then((renderObjectArray) => {
       // Determin the order of the Images before creating the gif
@@ -81,10 +74,10 @@ const saveProjectPreviewGIF = async (_data) => {
           previewCanvasWidth,
           previewCanvasHeight
         );
-        hashlipsGiffer.add();
+        giffer.add();
       });
     });
-    hashlipsGiffer.stop();
+    giffer.stop();
   }
 };
 
