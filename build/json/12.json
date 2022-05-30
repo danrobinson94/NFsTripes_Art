@@ -1,0 +1,23 @@
+{
+  "name": "NFsTripes #12",
+  "description": "Stripes to satisfy your nft dreams",
+  "image": "https://nfstripes.s3.amazonaws.com/images/12.png",
+  "dna": "aa69f18e9278773078ffc62e65c7b478e1d67ed7",
+  "edition": 12,
+  "date": 1648529985468,
+  "attributes": [
+    {
+      "trait_type": "bottoms",
+      "value": "bottom red common"
+    },
+    {
+      "trait_type": "tops",
+      "value": "top yellow common"
+    },
+    {
+      "trait_type": "circles",
+      "value": "circle blue rare"
+    }
+  ],
+  "compiler": "Roy Art Engine"
+}

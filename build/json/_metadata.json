@@ -1,0 +1,5752 @@
+[
+  {
+    "name": "NFsTripes #89",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "https://nfstripes.s3.amazonaws.com/images/89.png",
+    "dna": "9e04d85b94ac7c53a97ba52123b33af3819d099f",
+    "edition": 89,
+    "date": 1648529982101,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #161",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/161.png",
+    "dna": "ccd76a0af58f0d857709c785e69d5cd0630af3e6",
+    "edition": 161,
+    "date": 1648529982216,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #6",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/6.png",
+    "dna": "60a8d1cad47bdaf6a77ad75f9a58b06ce8bb483e",
+    "edition": 6,
+    "date": 1648529982320,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #158",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/158.png",
+    "dna": "ec294c76a8d91bbfe5c9e39522e3da2615b3deca",
+    "edition": 158,
+    "date": 1648529982425,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #133",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/133.png",
+    "dna": "8c93fd7cc8f40383f0b98cc46558e0550221eb18",
+    "edition": 133,
+    "date": 1648529982532,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #4",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/4.png",
+    "dna": "68e05a24a0e996d2cd631ac80540323bc7a43269",
+    "edition": 4,
+    "date": 1648529982638,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #241",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/241.png",
+    "dna": "3718d0c9d32d4cd909ec111bab391b944a170999",
+    "edition": 241,
+    "date": 1648529982744,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #22",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/22.png",
+    "dna": "085eecc26d9e4b73b1aa7ec43aacf72353d8ecad",
+    "edition": 22,
+    "date": 1648529982872,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #146",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/146.png",
+    "dna": "3e07fbc0eb3a2ed5eecdeeddbc51780c8ba2040f",
+    "edition": 146,
+    "date": 1648529982964,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #41",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/41.png",
+    "dna": "9835be22b12fe00fab5618ed7cf6f3091b910d80",
+    "edition": 41,
+    "date": 1648529983055,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #34",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/34.png",
+    "dna": "c162060910edff10aee15dbd2e05f2fa55813526",
+    "edition": 34,
+    "date": 1648529983175,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #226",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/226.png",
+    "dna": "1dbfd71c35dfbc3532418180bcb93a53b76a1672",
+    "edition": 226,
+    "date": 1648529983281,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #119",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/119.png",
+    "dna": "78069c520f1c8076d1e56a6bf8fa2eebbf3817bd",
+    "edition": 119,
+    "date": 1648529983389,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #109",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/109.png",
+    "dna": "0bd673e2838643763d5b1a5e0b642e9768076c9d",
+    "edition": 109,
+    "date": 1648529983493,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #204",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/204.png",
+    "dna": "416798db72526e84ee7945be38d4667a907bda2b",
+    "edition": 204,
+    "date": 1648529983592,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #171",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/171.png",
+    "dna": "49adf8ef54e14e76203c00e4ea99259e783f5e51",
+    "edition": 171,
+    "date": 1648529983678,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #170",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/170.png",
+    "dna": "908e758012af1f7fa313ab46d8a81a410128915c",
+    "edition": 170,
+    "date": 1648529983775,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #147",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/147.png",
+    "dna": "9033d8ae881b8ed0ae78a05d6b832db9db168b76",
+    "edition": 147,
+    "date": 1648529983879,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #205",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/205.png",
+    "dna": "722c7e42352d0bca6a021c0978eff510c07215a2",
+    "edition": 205,
+    "date": 1648529983982,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #248",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/248.png",
+    "dna": "64e9006d9fd94051548c9bc6da3e0dcdc2653065",
+    "edition": 248,
+    "date": 1648529984086,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #137",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/137.png",
+    "dna": "5b1cdd466f07d0b421bacc471a88a14416ea6bd6",
+    "edition": 137,
+    "date": 1648529984213,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #110",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/110.png",
+    "dna": "f73046a465dd05265bc33305ef92a072ea30b8c1",
+    "edition": 110,
+    "date": 1648529984350,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #80",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/80.png",
+    "dna": "48e3c5440114f4fa0934bdec7c24f52ae7f94af5",
+    "edition": 80,
+    "date": 1648529984435,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top black superrare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #42",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/42.png",
+    "dna": "132892d7e9da5487681b3e252717acf85cc99b80",
+    "edition": 42,
+    "date": 1648529984520,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #141",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/141.png",
+    "dna": "2bf7944471ebb679116b2da96cd27fe419cc7849",
+    "edition": 141,
+    "date": 1648529984614,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #225",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/225.png",
+    "dna": "f4a4b084fcf0e528e56f10a2ecdc3a7c42a51b53",
+    "edition": 225,
+    "date": 1648529984714,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #108",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/108.png",
+    "dna": "c98ef21643226beca6d0e6fa9b1849171d4df110",
+    "edition": 108,
+    "date": 1648529984815,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #35",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/35.png",
+    "dna": "5c917be1b9c7cf64c1dd0a2967162cc30a04b305",
+    "edition": 35,
+    "date": 1648529984919,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #228",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/228.png",
+    "dna": "5fe31f739cd9c82ffcfacf12645f9415b3ab002a",
+    "edition": 228,
+    "date": 1648529985026,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #60",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/60.png",
+    "dna": "866ea5fe41cef4f3b4c7dabefb2e60352f7c8840",
+    "edition": 60,
+    "date": 1648529985177,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #116",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/116.png",
+    "dna": "1c4e1f63f9ff9b7f4267dfc3832534be01551192",
+    "edition": 116,
+    "date": 1648529985263,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #16",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/16.png",
+    "dna": "f1c2279bcd7cee7adf12b0569b1e8d470628e695",
+    "edition": 16,
+    "date": 1648529985374,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #12",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/12.png",
+    "dna": "aa69f18e9278773078ffc62e65c7b478e1d67ed7",
+    "edition": 12,
+    "date": 1648529985468,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #98",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/98.png",
+    "dna": "a929661517340a9d235ed694370ab17217c18d48",
+    "edition": 98,
+    "date": 1648529985593,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #190",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/190.png",
+    "dna": "8f9fd0efd8d3e402550087542cb825d38a38f4bc",
+    "edition": 190,
+    "date": 1648529985700,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #101",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/101.png",
+    "dna": "f12adb459022c7618d4075c7c908771db3db48bd",
+    "edition": 101,
+    "date": 1648529985806,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #39",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/39.png",
+    "dna": "49c82a60fba53132b1530cbaf53e9b8c4395f34d",
+    "edition": 39,
+    "date": 1648529985912,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #125",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/125.png",
+    "dna": "62f2d4b114e70c51a71a2083852daef6ec35960c",
+    "edition": 125,
+    "date": 1648529986068,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #245",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/245.png",
+    "dna": "424c85f8ebab8e140f94909dbc12e991377ad10f",
+    "edition": 245,
+    "date": 1648529986161,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #210",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/210.png",
+    "dna": "6a51207149645287137d553351598bbd41043011",
+    "edition": 210,
+    "date": 1648529986249,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #152",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/152.png",
+    "dna": "2ce93113b2e776bda336f519eccab1f02e99041b",
+    "edition": 152,
+    "date": 1648529986345,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #96",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/96.png",
+    "dna": "9a8ecd52355e1d31963f9dbb6f616a1212764fdc",
+    "edition": 96,
+    "date": 1648529986468,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #219",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/219.png",
+    "dna": "e6d6371686b962552600cee8a723f93798a015d8",
+    "edition": 219,
+    "date": 1648529986574,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #23",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/23.png",
+    "dna": "ca878ffdd4a47b30320b91a40d70351df57267f2",
+    "edition": 23,
+    "date": 1648529986682,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #189",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/189.png",
+    "dna": "b06740e9a6aa97a2b51c3f6f4bc10ea5f8c0c346",
+    "edition": 189,
+    "date": 1648529986788,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #212",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/212.png",
+    "dna": "fa06ac50928d85aaa9c948d8e1fdced2e448625b",
+    "edition": 212,
+    "date": 1648529986939,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #90",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/90.png",
+    "dna": "fb1a21d8d20efd4efefe484df9a18e4ad6c8d35e",
+    "edition": 90,
+    "date": 1648529987026,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #246",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/246.png",
+    "dna": "acf6fa73a53cfedcc8b6302ad4ab7fcb82a0cb6e",
+    "edition": 246,
+    "date": 1648529987112,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #237",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/237.png",
+    "dna": "7abf01f085a878a3b73f8182a3a20fbcabb42723",
+    "edition": 237,
+    "date": 1648529987211,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #15",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/15.png",
+    "dna": "e04dcbed44d3eb8bc3c6bdd02531fa044b014a2a",
+    "edition": 15,
+    "date": 1648529987314,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #32",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/32.png",
+    "dna": "817a92f456d03345b3394f22027b5e6337e6351c",
+    "edition": 32,
+    "date": 1648529987419,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #203",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/203.png",
+    "dna": "c727a071bbee73b9a344074ac8e567a742228cde",
+    "edition": 203,
+    "date": 1648529987524,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #201",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/201.png",
+    "dna": "ac36434c64e97f8cc81a9f7a7626a6726ee7634a",
+    "edition": 201,
+    "date": 1648529987627,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #209",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/209.png",
+    "dna": "5d262386ddafd4e6bcfcbf9d286db32622b46cdd",
+    "edition": 209,
+    "date": 1648529987802,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #76",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/76.png",
+    "dna": "a7adedf9fb1c615f0fcfffe8da59ce76b87904dd",
+    "edition": 76,
+    "date": 1648529987890,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #234",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/234.png",
+    "dna": "4f955f7ffeff3c322b18b402e553332af2eed11b",
+    "edition": 234,
+    "date": 1648529987979,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #8",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/8.png",
+    "dna": "de516eee4c7fd81b3f6c948d887ca72dcc160b8b",
+    "edition": 8,
+    "date": 1648529988079,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #178",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/178.png",
+    "dna": "fc5dd46bf9a4216a6b69dacc71d9af9a4d29b624",
+    "edition": 178,
+    "date": 1648529988211,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #30",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/30.png",
+    "dna": "b78de31690738ccc8c4ee3081202e8291f1a4992",
+    "edition": 30,
+    "date": 1648529988322,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #132",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/132.png",
+    "dna": "855d4bf51aec51f49767e3689d0a445e605d8103",
+    "edition": 132,
+    "date": 1648529988431,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #185",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/185.png",
+    "dna": "3eea2943cfbd26229ca86144ec46b12ee6ea4327",
+    "edition": 185,
+    "date": 1648529988536,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #66",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/66.png",
+    "dna": "67fc2602dee1bb70a720fcaaf366a1f4377172fb",
+    "edition": 66,
+    "date": 1648529988681,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #102",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/102.png",
+    "dna": "37481a60aacc7739042dcdd18f3bdb9142ccd430",
+    "edition": 102,
+    "date": 1648529988767,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #50",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/50.png",
+    "dna": "cad65e9821af3bb974a6b9c64d38a17d63402270",
+    "edition": 50,
+    "date": 1648529988854,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #18",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/18.png",
+    "dna": "eccdbc3c6e6e5a8b5a3e8a03197a9d251feb4f4f",
+    "edition": 18,
+    "date": 1648529988957,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #193",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/193.png",
+    "dna": "86c25c41cad74ed73d54bb60a1e50b5e2e015182",
+    "edition": 193,
+    "date": 1648529989061,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #5",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/5.png",
+    "dna": "9cd86bfa62349c8c0e673452bbb3911c8ecff6a2",
+    "edition": 5,
+    "date": 1648529989166,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #122",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/122.png",
+    "dna": "c25760afde8c5264abe42b2a7c794f1ebb379207",
+    "edition": 122,
+    "date": 1648529989268,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #179",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/179.png",
+    "dna": "a398db12ead0fb6aa519c6a8c400372f61d80038",
+    "edition": 179,
+    "date": 1648529989442,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #130",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/130.png",
+    "dna": "9eec5e5a51808830c69cd96cbf95e03db4f04223",
+    "edition": 130,
+    "date": 1648529989529,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #199",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/199.png",
+    "dna": "9b85950264a35a15b06429f8fc1f0bda8e0e34b7",
+    "edition": 199,
+    "date": 1648529989625,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #31",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/31.png",
+    "dna": "3c0e260de5b921baacf25ffce5052e93571e440d",
+    "edition": 31,
+    "date": 1648529989718,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #53",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/53.png",
+    "dna": "405efad70b14b41d57e5262b1e255425df015af7",
+    "edition": 53,
+    "date": 1648529989821,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #57",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/57.png",
+    "dna": "43c303cd850af17da9d8048e747bfe62c4f2304f",
+    "edition": 57,
+    "date": 1648529989926,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #94",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/94.png",
+    "dna": "29aa1fecfd36ca183673866a97f33f0f554eb8c7",
+    "edition": 94,
+    "date": 1648529990033,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #63",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/63.png",
+    "dna": "87ac1882e955a095b8426f103b314f494a98f33a",
+    "edition": 63,
+    "date": 1648529990187,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #159",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/159.png",
+    "dna": "2b853a592ee6516b909d0400f3133e686d296de2",
+    "edition": 159,
+    "date": 1648529990274,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #88",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/88.png",
+    "dna": "4d832c81eb31b83fe273d10bea889c7771cc3d61",
+    "edition": 88,
+    "date": 1648529990359,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #240",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/240.png",
+    "dna": "190a23ad451b7c32eaff9af7655e7e752126701f",
+    "edition": 240,
+    "date": 1648529990449,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #86",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/86.png",
+    "dna": "b4c2d10dcb30e76d981372dec09a79c46081c9ea",
+    "edition": 86,
+    "date": 1648529990552,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #92",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/92.png",
+    "dna": "821e9e1f165f759994baa707e72a275470266105",
+    "edition": 92,
+    "date": 1648529990655,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #142",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/142.png",
+    "dna": "69d80b3c0425b9012e4f4cbabbf45a1c8aa78000",
+    "edition": 142,
+    "date": 1648529990757,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #77",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/77.png",
+    "dna": "ea8a00c6594f9df51d19a6d83f5419825f70b208",
+    "edition": 77,
+    "date": 1648529990860,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #105",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/105.png",
+    "dna": "e6783c20178f950ff96027dd043c13567cc03771",
+    "edition": 105,
+    "date": 1648529991018,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #167",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/167.png",
+    "dna": "2a1a71ba82b51fe127ef883af3fc7f77e88e1f37",
+    "edition": 167,
+    "date": 1648529991105,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #64",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/64.png",
+    "dna": "d04168998e309704848f826d669fc85412545512",
+    "edition": 64,
+    "date": 1648529991199,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #148",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/148.png",
+    "dna": "7131015f9a47014d8ff86c02a8145867306939d8",
+    "edition": 148,
+    "date": 1648529991293,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #160",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/160.png",
+    "dna": "3395ac409310ee6de62b854d284350e90ca8eebb",
+    "edition": 160,
+    "date": 1648529991394,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #129",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/129.png",
+    "dna": "6ce8b0fba499893215f1c6e73fa4d8acdecbb4c4",
+    "edition": 129,
+    "date": 1648529991496,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #224",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/224.png",
+    "dna": "05603a14395a81b40a3aca093e1be7b6d1ac8a76",
+    "edition": 224,
+    "date": 1648529991601,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #104",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/104.png",
+    "dna": "e2a130381dd27c973e5242cde1b5a3f8f26aaf88",
+    "edition": 104,
+    "date": 1648529991706,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #69",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/69.png",
+    "dna": "de31d909a04e761b59cfb525af600d6a01b6120d",
+    "edition": 69,
+    "date": 1648529991850,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #140",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/140.png",
+    "dna": "2407819eb52883c182359c38b297bec51cba0bf4",
+    "edition": 140,
+    "date": 1648529991936,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #157",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/157.png",
+    "dna": "20111f5d193626cdbbfdd03923a0af6bbdd12e70",
+    "edition": 157,
+    "date": 1648529992020,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #235",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/235.png",
+    "dna": "c968a8432a4b9ba707cb591c3acc7b16b46ad964",
+    "edition": 235,
+    "date": 1648529992121,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #68",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/68.png",
+    "dna": "ec099dd17e2a9eaf4fbec23548a505de25f86f2e",
+    "edition": 68,
+    "date": 1648529992225,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #20",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/20.png",
+    "dna": "39c03aba339702a608aaeb65946862ac8075ffa6",
+    "edition": 20,
+    "date": 1648529992329,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #249",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/249.png",
+    "dna": "b4c4e609295b68684f8fcb33d4d30de3e4701c28",
+    "edition": 249,
+    "date": 1648529992431,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #3",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/3.png",
+    "dna": "cd06caac21ce624c6b107e8e60e430f3a08e1fd9",
+    "edition": 3,
+    "date": 1648529992576,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #26",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/26.png",
+    "dna": "b71bcbbea2c35e2d68e549d89f484094e17f00aa",
+    "edition": 26,
+    "date": 1648529992661,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #216",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/216.png",
+    "dna": "5e188245a06284c0128d23118edddd414eef1cb6",
+    "edition": 216,
+    "date": 1648529992767,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #65",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/65.png",
+    "dna": "853537b0bc70266fa030cf1c205017008036aec7",
+    "edition": 65,
+    "date": 1648529992866,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #180",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/180.png",
+    "dna": "070c98c8ecb132a1e76ba60d788239eb118976ca",
+    "edition": 180,
+    "date": 1648529992998,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #172",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/172.png",
+    "dna": "3b22aa3283f64895e83a7d829ac4abac4fcd77fe",
+    "edition": 172,
+    "date": 1648529993109,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #38",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/38.png",
+    "dna": "c31e6c27ee0397339dbc4273be2ffb582efdd377",
+    "edition": 38,
+    "date": 1648529993213,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #183",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/183.png",
+    "dna": "269b26ebad95ddef83bf4158cfbdbe7c062b9e74",
+    "edition": 183,
+    "date": 1648529993371,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #196",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/196.png",
+    "dna": "546a3ed9e11fc8283f51e90e0018e4234e9b9bfe",
+    "edition": 196,
+    "date": 1648529993458,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #58",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/58.png",
+    "dna": "c250a772559db88b81eb7f47b2de4d73b7685494",
+    "edition": 58,
+    "date": 1648529993546,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #169",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/169.png",
+    "dna": "d2da645c1903de881a1e7bb2776f38c1dd080238",
+    "edition": 169,
+    "date": 1648529993635,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #36",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/36.png",
+    "dna": "8a63de40ad5d59b192e534afe0b6f0a9162b013e",
+    "edition": 36,
+    "date": 1648529993737,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #62",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/62.png",
+    "dna": "0105241adebaa23a255bec4e8df2a649fe9961fd",
+    "edition": 62,
+    "date": 1648529993841,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #47",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/47.png",
+    "dna": "04cc61b173f009a188175523f5105832fc52bb89",
+    "edition": 47,
+    "date": 1648529993946,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #227",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/227.png",
+    "dna": "a9abe7d9eb21d942f9aa8716f9d006647d95ec88",
+    "edition": 227,
+    "date": 1648529994050,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #25",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/25.png",
+    "dna": "8b183615197048cc7c46ab8eed655bafa06227c4",
+    "edition": 25,
+    "date": 1648529994193,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #91",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/91.png",
+    "dna": "ac98aa559b4a990667b5d4cac72e1f105f7f0239",
+    "edition": 91,
+    "date": 1648529994276,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #232",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/232.png",
+    "dna": "63800dd0ac29c7d2676b09fdfa9b47212911169e",
+    "edition": 232,
+    "date": 1648529994363,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #213",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/213.png",
+    "dna": "422257516b0ba4207da085bc895a82f1ec6969e1",
+    "edition": 213,
+    "date": 1648529994464,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #70",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/70.png",
+    "dna": "a2e0a4303e9cbb57d6f160e7c9794b798d84c87e",
+    "edition": 70,
+    "date": 1648529994563,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #33",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/33.png",
+    "dna": "48c2bf739992b8d6f071f0d7f2e16d2fe7a9e2e2",
+    "edition": 33,
+    "date": 1648529994674,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #117",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/117.png",
+    "dna": "148e06bedd996003fcca26d98fad64c0c6a9449b",
+    "edition": 117,
+    "date": 1648529994779,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #229",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/229.png",
+    "dna": "74817077a20dd0698c53f766fdf156d879f15a3c",
+    "edition": 229,
+    "date": 1648529994970,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #21",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/21.png",
+    "dna": "cba5d6438502a15cda991a28557a7bd7ce8999f7",
+    "edition": 21,
+    "date": 1648529995088,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #123",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/123.png",
+    "dna": "79cdf15a9eba3cfe69d9ceec2e95e872fde1631a",
+    "edition": 123,
+    "date": 1648529995179,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #176",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/176.png",
+    "dna": "e0bfe6ff0485cf104df98c8363c2db7ace223bbe",
+    "edition": 176,
+    "date": 1648529995271,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #79",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/79.png",
+    "dna": "f3343d9e673100a77022dc019355b01c8b3757ff",
+    "edition": 79,
+    "date": 1648529995374,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #73",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/73.png",
+    "dna": "faf1be35f0e40bba548b691bd13dee83dc3c0ccd",
+    "edition": 73,
+    "date": 1648529995481,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #115",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/115.png",
+    "dna": "1665731482e0eae911491e86bbe89c5c7413e919",
+    "edition": 115,
+    "date": 1648529995592,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #136",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/136.png",
+    "dna": "3bb3c9d2d14759f6a3bbfae331db5b5c59cc57aa",
+    "edition": 136,
+    "date": 1648529995697,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #164",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/164.png",
+    "dna": "c759af662113226109d4cc882a7abef151048b17",
+    "edition": 164,
+    "date": 1648529995825,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #2",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/2.png",
+    "dna": "77da572024fa6253296f45d3cffa525c1e747751",
+    "edition": 2,
+    "date": 1648529995909,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #74",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/74.png",
+    "dna": "42f25390415617900ac2085c1f73d59ba016cf8c",
+    "edition": 74,
+    "date": 1648529995998,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #208",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/208.png",
+    "dna": "72ad34e9567c9ab310c6e161a068df056d41834a",
+    "edition": 208,
+    "date": 1648529996099,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #93",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/93.png",
+    "dna": "358c4f78f69f97cfe72c3a5866b22a423ba02185",
+    "edition": 93,
+    "date": 1648529996202,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #121",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/121.png",
+    "dna": "a16cf7a46698c948e0b21dad0aaee6ecd20500f3",
+    "edition": 121,
+    "date": 1648529996306,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #7",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/7.png",
+    "dna": "f84e151cb8d5dea1a6b9d1698c1e4b6a91aca147",
+    "edition": 7,
+    "date": 1648529996408,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #44",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/44.png",
+    "dna": "99a91b7336bf593c084dd4097c1fca437a471fab",
+    "edition": 44,
+    "date": 1648529996558,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #192",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/192.png",
+    "dna": "95c273cf335fc73565acfccc53c38c8b5e2f8ff0",
+    "edition": 192,
+    "date": 1648529996652,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #197",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/197.png",
+    "dna": "622f5bd1d3726414cf4de793f926613c1f06ab1e",
+    "edition": 197,
+    "date": 1648529996737,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #220",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/220.png",
+    "dna": "7687688fef530bd43a68d42f013a00a7f191245a",
+    "edition": 220,
+    "date": 1648529996829,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #46",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/46.png",
+    "dna": "795bfc36264b42d44583cd240c2f61265fb93819",
+    "edition": 46,
+    "date": 1648529996929,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #43",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/43.png",
+    "dna": "6b398c308b3f99a6c661b35baf721da722e97dd0",
+    "edition": 43,
+    "date": 1648529997053,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #202",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/202.png",
+    "dna": "253638a06afa92bf29b7359f469a6462375ac3fc",
+    "edition": 202,
+    "date": 1648529997195,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #120",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/120.png",
+    "dna": "68907c5608d6fb82c41bbfc6c0eaa321cc46fadd",
+    "edition": 120,
+    "date": 1648529997362,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #75",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/75.png",
+    "dna": "6378d760dcb6b84bcd56a46a01efcc5b5b20bdd5",
+    "edition": 75,
+    "date": 1648529997454,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #10",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/10.png",
+    "dna": "35864ca6d6f716078c8375561bc07575e5c09303",
+    "edition": 10,
+    "date": 1648529997541,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #87",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/87.png",
+    "dna": "344cf9cd89d092b7e101cf31b788f583fa39d1a4",
+    "edition": 87,
+    "date": 1648529997632,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #61",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/61.png",
+    "dna": "b2adae1892e867f3b4d6321defb0c828de827ac0",
+    "edition": 61,
+    "date": 1648529997735,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #198",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/198.png",
+    "dna": "3be0bc699bda9684315ba82cfa0d448f89b7b89f",
+    "edition": 198,
+    "date": 1648529997844,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #51",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/51.png",
+    "dna": "9e0711889b9714908b2ab3212e6e6b13a405338e",
+    "edition": 51,
+    "date": 1648529997947,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #149",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/149.png",
+    "dna": "7f5742d12c99659864740eb1501de698cc8ce560",
+    "edition": 149,
+    "date": 1648529998050,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #247",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/247.png",
+    "dna": "d0f16999654d65f026c1a8b4f51472203772b692",
+    "edition": 247,
+    "date": 1648529998191,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #217",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/217.png",
+    "dna": "3f4accf4ef7911e2fbd54dd0c966b09e52e823de",
+    "edition": 217,
+    "date": 1648529998273,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #163",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/163.png",
+    "dna": "c0f1e359fb14ddb98222e28ebb925137189175d8",
+    "edition": 163,
+    "date": 1648529998361,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #9",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/9.png",
+    "dna": "cbe829b7532efcfd4937d9a2cd1e7f4f03c18f70",
+    "edition": 9,
+    "date": 1648529998458,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #153",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/153.png",
+    "dna": "8d1fe08e87fd138320545533d9d44357f033c09c",
+    "edition": 153,
+    "date": 1648529998559,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #99",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/99.png",
+    "dna": "cda66951e9bf227540916829d695cc7ba12515d0",
+    "edition": 99,
+    "date": 1648529998661,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #124",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/124.png",
+    "dna": "8be734ad5ff4a4f5fcc89a2a805f4cd2edb43c24",
+    "edition": 124,
+    "date": 1648529998764,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #144",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/144.png",
+    "dna": "22e4091a4f4ce36754791546444cc7cd21c7adcf",
+    "edition": 144,
+    "date": 1648529998867,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #59",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/59.png",
+    "dna": "beee03517d4ec57ffb83eee2b5b7da8e4fd7d5d2",
+    "edition": 59,
+    "date": 1648529999014,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #135",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/135.png",
+    "dna": "6f2100721ba1b66ebed19abff0a618db8d361596",
+    "edition": 135,
+    "date": 1648529999099,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #143",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/143.png",
+    "dna": "da035624e6077bf4b3676bb202b41b55b3ca1d24",
+    "edition": 143,
+    "date": 1648529999182,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #207",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/207.png",
+    "dna": "ebdce0a03bbf07506f2331eed97187930d93ecbc",
+    "edition": 207,
+    "date": 1648529999295,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #191",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/191.png",
+    "dna": "c9ae8eed49263a1fbc800e2e426d16dadf1fd25c",
+    "edition": 191,
+    "date": 1648529999404,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #111",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/111.png",
+    "dna": "221390c2c1c47a06bfbb37145fd35fe793701d6e",
+    "edition": 111,
+    "date": 1648529999540,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #221",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/221.png",
+    "dna": "0370d6266f0f2067a50829776759e8d4406b6fc7",
+    "edition": 221,
+    "date": 1648529999646,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #126",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/126.png",
+    "dna": "e1f4489b28af0a8755a0134b699058ffc95232b2",
+    "edition": 126,
+    "date": 1648529999787,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #24",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/24.png",
+    "dna": "10e777e1defdc81ce1b6cdb81551760d62d7b93f",
+    "edition": 24,
+    "date": 1648529999871,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #156",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/156.png",
+    "dna": "41d27cdfc7bf9fabb8ade5b819a9dfa48541ddf3",
+    "edition": 156,
+    "date": 1648529999957,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #154",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/154.png",
+    "dna": "cc170f7f26426141bea5b29788233f30bad38c31",
+    "edition": 154,
+    "date": 1648530000052,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #81",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/81.png",
+    "dna": "d71f12574f626611ac51839d84427c8a10b9a7be",
+    "edition": 81,
+    "date": 1648530000156,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #128",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/128.png",
+    "dna": "c60dd10c4255250771bfbbd14fdb843b11c0c112",
+    "edition": 128,
+    "date": 1648530000258,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #230",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/230.png",
+    "dna": "f400682180056cc3f605e9ee3320f266713ecd96",
+    "edition": 230,
+    "date": 1648530000360,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #55",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/55.png",
+    "dna": "37364c82b876fb33b1762b29cc56a71107ffaed2",
+    "edition": 55,
+    "date": 1648530000462,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #95",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/95.png",
+    "dna": "be016cc44d43dcbc07abcc5ba440a75088e1faf3",
+    "edition": 95,
+    "date": 1648530000606,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #11",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/11.png",
+    "dna": "c006ea16a3c5979f7b6d844905c88bd9b330b3cc",
+    "edition": 11,
+    "date": 1648530000693,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #107",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/107.png",
+    "dna": "800fe238133613cf787b90e39eb1ddea0b630a6a",
+    "edition": 107,
+    "date": 1648530000776,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #118",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/118.png",
+    "dna": "e756ba38e269610d4e76d94fda3912261c07be5e",
+    "edition": 118,
+    "date": 1648530000877,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #186",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/186.png",
+    "dna": "76072f180e3e5bc0c1f99be3fc52db580976ecc0",
+    "edition": 186,
+    "date": 1648530000978,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #162",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/162.png",
+    "dna": "a315c929e84f79113d7b297fd9ca41c810afe555",
+    "edition": 162,
+    "date": 1648530001084,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #236",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/236.png",
+    "dna": "bebd5c5502647fafc9c9b697cb392856652c25d8",
+    "edition": 236,
+    "date": 1648530001189,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #173",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/173.png",
+    "dna": "26d77178b45fe8411bce38d2cefe17f51d31c2a6",
+    "edition": 173,
+    "date": 1648530001340,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #187",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/187.png",
+    "dna": "ee985f6e8e3c668cd85f9ecefeba77af29abe96b",
+    "edition": 187,
+    "date": 1648530001426,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #72",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/72.png",
+    "dna": "6916f15381224aed658c4a82365b7a2c9f4d7097",
+    "edition": 72,
+    "date": 1648530001509,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #29",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/29.png",
+    "dna": "6a202115354942049bee4484e3eced98cfa5b72c",
+    "edition": 29,
+    "date": 1648530001600,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #40",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/40.png",
+    "dna": "69a2cda3a2722adccc1e26dbab8caf443661e687",
+    "edition": 40,
+    "date": 1648530001702,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #242",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/242.png",
+    "dna": "f5b1b56ffcd298756c3710e922d757d0c03a24e0",
+    "edition": 242,
+    "date": 1648530001816,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #48",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/48.png",
+    "dna": "96f8c3a361179cad6e5bacf5dac0c2f5257ed2ce",
+    "edition": 48,
+    "date": 1648530001927,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #14",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/14.png",
+    "dna": "13c0712556e608e87f4b3f66c049be26d812d271",
+    "edition": 14,
+    "date": 1648530002117,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #150",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/150.png",
+    "dna": "4ed056b241737d0dfd1c008fb99cffadd18dbf88",
+    "edition": 150,
+    "date": 1648530002207,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #49",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/49.png",
+    "dna": "15c5864091f6b88d68aa736229738e13343bbb2a",
+    "edition": 49,
+    "date": 1648530002328,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #127",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/127.png",
+    "dna": "2d59c6ccf36cf3b76df3a5f48157552ea8b3c990",
+    "edition": 127,
+    "date": 1648530002425,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #138",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/138.png",
+    "dna": "f25c4ccdb43c51689da1ec83caade79e98c75cae",
+    "edition": 138,
+    "date": 1648530002533,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #103",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/103.png",
+    "dna": "bc65042ecd844cd89884d537168e7a401a996107",
+    "edition": 103,
+    "date": 1648530002639,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #67",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/67.png",
+    "dna": "858e116e53fa331084afae77eb64fd47af0b5f1e",
+    "edition": 67,
+    "date": 1648530002744,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #182",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/182.png",
+    "dna": "b275e9853716a2088e2ffdefed0a574beb6db79e",
+    "edition": 182,
+    "date": 1648530002894,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #238",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/238.png",
+    "dna": "cae5f4f9fda708d565d0dfe4614b13ec0c69504e",
+    "edition": 238,
+    "date": 1648530002981,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #56",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/56.png",
+    "dna": "a1fd12f361ac1271466d63b3275c19616e53b730",
+    "edition": 56,
+    "date": 1648530003065,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #27",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/27.png",
+    "dna": "6431b69179a5f7164c8e455385c03dda00f6c128",
+    "edition": 27,
+    "date": 1648530003155,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #145",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/145.png",
+    "dna": "080184b0a13bf5335a5e4a0c934368fc059d4f6c",
+    "edition": 145,
+    "date": 1648530003257,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #177",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/177.png",
+    "dna": "b2813982e5f34fb6a78d22db9991320b075046f4",
+    "edition": 177,
+    "date": 1648530003368,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #222",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/222.png",
+    "dna": "d83727e4a21e4beaca13a66fa87845a799cba44b",
+    "edition": 222,
+    "date": 1648530003472,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #218",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/218.png",
+    "dna": "ceafe8f4b3395ab6dcc71d90595e5bb06f8953b8",
+    "edition": 218,
+    "date": 1648530003577,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #175",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/175.png",
+    "dna": "b44a4dfbf1c191521faab13fac425eebb7afa333",
+    "edition": 175,
+    "date": 1648530003710,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #155",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/155.png",
+    "dna": "429e7c5bd4812bbe3f227b6093156d42a4b602cc",
+    "edition": 155,
+    "date": 1648530003795,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #45",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/45.png",
+    "dna": "d56ac7e91b85137f88ec51a74f5a814bc64dc3e9",
+    "edition": 45,
+    "date": 1648530003884,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #84",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/84.png",
+    "dna": "110c87adb8f6d2c8aa911d403335cb4c79aa7569",
+    "edition": 84,
+    "date": 1648530003987,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #54",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/54.png",
+    "dna": "9e1c57a4e711168cb870335a352bc8a1ba032910",
+    "edition": 54,
+    "date": 1648530004091,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #139",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/139.png",
+    "dna": "ccbbe23af2995ad849a04800bcb5d71fb3ae7b67",
+    "edition": 139,
+    "date": 1648530004193,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #200",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/200.png",
+    "dna": "36be1a4097840ca71e3bd60b2068bc814bd96ec0",
+    "edition": 200,
+    "date": 1648530004294,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #194",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/194.png",
+    "dna": "3b2087f1357169fd461530d5fb50315d5454aff5",
+    "edition": 194,
+    "date": 1648530004432,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #100",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/100.png",
+    "dna": "62eb81740fe9176dab885afe43dab91e0b20b202",
+    "edition": 100,
+    "date": 1648530004533,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #166",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/166.png",
+    "dna": "e0aafb6ccaf1717fa45939f4827292691c08b4e0",
+    "edition": 166,
+    "date": 1648530004626,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #233",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/233.png",
+    "dna": "736feae3637d18f6f73c8f2ff8871eacee6c1deb",
+    "edition": 233,
+    "date": 1648530004748,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #250",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/250.png",
+    "dna": "2884f01e3ba51c7a457ccaec58efe34caff5a020",
+    "edition": 250,
+    "date": 1648530004853,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #13",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/13.png",
+    "dna": "88d38e74abaa551098fc3cd2e8921d343a41d188",
+    "edition": 13,
+    "date": 1648530004958,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #214",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/214.png",
+    "dna": "199d479caa31db83a5d17c9c96a2e493b3db5b14",
+    "edition": 214,
+    "date": 1648530005065,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #17",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/17.png",
+    "dna": "a5285076d7d6307fb03befeeb31559232f4b9ba0",
+    "edition": 17,
+    "date": 1648530005200,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #174",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/174.png",
+    "dna": "4c49f7f389ad36b9609a878625e6c3e1830da552",
+    "edition": 174,
+    "date": 1648530005283,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #151",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/151.png",
+    "dna": "0b6ba5f7b143a66d9ee8136cc08ee12ac53d7f83",
+    "edition": 151,
+    "date": 1648530005368,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #206",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/206.png",
+    "dna": "b78c34280fac14feb7f0d1809625fb8d857ba89e",
+    "edition": 206,
+    "date": 1648530005469,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #188",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/188.png",
+    "dna": "1010ca308b3125f139399928c63831a1a4c2c0a8",
+    "edition": 188,
+    "date": 1648530005577,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #52",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/52.png",
+    "dna": "2d33104d11afe85b55fca85303c8e7c791d70c70",
+    "edition": 52,
+    "date": 1648530005680,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #85",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/85.png",
+    "dna": "1595e85ced09b0b4ffc74b364b98e03ee6ed1524",
+    "edition": 85,
+    "date": 1648530005784,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #82",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/82.png",
+    "dna": "a70ff18f63007c3c572e26b7ae505bf2667cc1b4",
+    "edition": 82,
+    "date": 1648530005925,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #97",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/97.png",
+    "dna": "61fb3cdb41206df7edee6d26f00ad48c03b34be5",
+    "edition": 97,
+    "date": 1648530006008,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #168",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/168.png",
+    "dna": "eec2eeb603fc0eadc723068f1bc5cd1dd451f32e",
+    "edition": 168,
+    "date": 1648530006100,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #134",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/134.png",
+    "dna": "3cbea61a3dbb7a0e9de78dc8a1cd9444cbb845b2",
+    "edition": 134,
+    "date": 1648530006199,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top yellow common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #244",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/244.png",
+    "dna": "6c4b2444e205d17e0da18af361e1e92e2afd55ec",
+    "edition": 244,
+    "date": 1648530006300,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #195",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/195.png",
+    "dna": "811b70b21d705aee04e45f2ce80c3ca7f3e12ed4",
+    "edition": 195,
+    "date": 1648530006405,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #215",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/215.png",
+    "dna": "f6268c64a298e3e2603da8be60ecf894a547f9d1",
+    "edition": 215,
+    "date": 1648530006507,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #243",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/243.png",
+    "dna": "a86d102fd63263d54ceebd3d691b4ac420d11c0a",
+    "edition": 243,
+    "date": 1648530006658,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #165",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/165.png",
+    "dna": "0d2c34a3d1370df19ae473cdfc9c85e69ffaa9b5",
+    "edition": 165,
+    "date": 1648530006744,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #223",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/223.png",
+    "dna": "0ba706d608dd564b7cf5348804913294738de228",
+    "edition": 223,
+    "date": 1648530006830,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle blue rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #231",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/231.png",
+    "dna": "6807db9c5af4cbc889e5b8bc2416e9ab34c910ae",
+    "edition": 231,
+    "date": 1648530006918,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom green rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #1",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/1.png",
+    "dna": "31600a21f0d5b1ec21036f6cd3a3b5a01b4b9f4b",
+    "edition": 1,
+    "date": 1648530007020,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top white common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle orange rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #181",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/181.png",
+    "dna": "2bc82ea103fe9328857c27fbecbbc2957952eff9",
+    "edition": 181,
+    "date": 1648530007127,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #19",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/19.png",
+    "dna": "e7295c064f334ccf3c256c7a880f6427c66f9aed",
+    "edition": 19,
+    "date": 1648530007232,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #83",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/83.png",
+    "dna": "39a19e5e1e833951d51fec3eaa4f011f269fa47a",
+    "edition": 83,
+    "date": 1648530007395,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top purple common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #131",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/131.png",
+    "dna": "c74385a29cce8d5198fc6440fc76a2b5a2109aaa",
+    "edition": 131,
+    "date": 1648530007493,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle black superrare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #106",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/106.png",
+    "dna": "000890dea1b4bd2026601dc57ecdaea05fbf5f4f",
+    "edition": 106,
+    "date": 1648530007576,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #78",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/78.png",
+    "dna": "f4d1b90164c3e8a01e906ae1f4c571bc6ba43c7a",
+    "edition": 78,
+    "date": 1648530007669,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom blue rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #113",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/113.png",
+    "dna": "e7389dae2b16c861c9565ce647ac26f64c1af3fd",
+    "edition": 113,
+    "date": 1648530007774,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom white common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #28",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/28.png",
+    "dna": "51d026ef02d1eb37d84b375e216213f62fadc9cc",
+    "edition": 28,
+    "date": 1648530007880,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #211",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/211.png",
+    "dna": "2277c9234c1e645ada9be10b9e65f87dae3bf36f",
+    "edition": 211,
+    "date": 1648530007984,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom yellow common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top orange rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #112",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/112.png",
+    "dna": "1f3175d2aa8732e0ee4f0eee105368b86f5a55eb",
+    "edition": 112,
+    "date": 1648530008086,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom black superrare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle purple common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #239",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/239.png",
+    "dna": "56aada3f7fbdcb939210f05ea2eab641ccccad03",
+    "edition": 239,
+    "date": 1648530008217,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom red common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #71",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/71.png",
+    "dna": "00951b4ec59cd759f737ea4551973172623502a3",
+    "edition": 71,
+    "date": 1648530008300,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle white common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #184",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/184.png",
+    "dna": "550466a8684a91809a93521622b8d3a2b2b29f68",
+    "edition": 184,
+    "date": 1648530008391,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom purple common"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top green rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle green rare"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #114",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/114.png",
+    "dna": "834cf32f8d525b27081215d732536c16dea3719d",
+    "edition": 114,
+    "date": 1648530008495,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top blue rare"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle yellow common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  },
+  {
+    "name": "NFsTripes #37",
+    "description": "Stripes to satisfy your nft dreams",
+    "image": "nfstripes.s3.amazonaws.com/images/37.png",
+    "dna": "f2c35f8958a155d31ff630b63367b78b09253dad",
+    "edition": 37,
+    "date": 1648530008599,
+    "attributes": [
+      {
+        "trait_type": "bottoms",
+        "value": "bottom orange rare"
+      },
+      {
+        "trait_type": "tops",
+        "value": "top red common"
+      },
+      {
+        "trait_type": "circles",
+        "value": "circle red common"
+      }
+    ],
+    "compiler": "Roy Art Engine"
+  }
+]
